@@ -1,0 +1,9 @@
+Building OLBITX
+
+See doc/readme-qt.rst for instructions on building OLBITX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of OLBITX.
+
+See doc/build-*.txt for instructions on building olbitxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of OLBITX.
